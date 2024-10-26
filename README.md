@@ -31,8 +31,8 @@ The preliminary results have shown promise, with a Decision Tree model achieving
 
 Challenges
 
-One of the key challenges faced during the project was managing data loss during the preprocessing step, particularly when dropping rows with NaN values from rolling calculations. Strategies to mitigate this issue are being explored to retain as much relevant data as possible. I was facing the problem of overfitting.
-The biggest issue is to handle the large dataset with low computiational power. 
+One of the key challenges faced during the project was managing data loss during the preprocessing step, particularly when dropping rows with NaN values from rolling calculations. Strategies to mitigate this issue are being explored to retain as much relevant data as possible. I was facing the problem of overfitting. While applying SVC, it was taking way too long so I had to stop the process, along  that performing hyperparameter tuning also become challanging.
+biggest challange for me is  to handle the large dataset with low computiational power. 
 
 Conclusion
 
