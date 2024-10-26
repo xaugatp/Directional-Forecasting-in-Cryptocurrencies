@@ -27,7 +27,7 @@ The dataset is split into training and test sets, with models trained on the tra
 Hyperparameter tuning is performed to optimize model performance further.
 Results
 
-The preliminary results have shown promise, with a Decision Tree model achieving an accuracy of 67.86% and a Macro-Averaged F1 Score of 67.66% on the training data. This indicates a relatively good performance in predicting price movements based on the features derived from historical data.
+The preliminary results have shown promise, with a Decision Tree model achieving an accuracy of 66.40% and a Macro-Averaged F1 Score of 66.32% on the training data. This indicates a relatively good performance in predicting price movements based on the features derived from historical data.
 
 Challenges
 
